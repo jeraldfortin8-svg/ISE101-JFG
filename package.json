@@ -1,5 +1,5 @@
 {
-  "name": "student-task-blog-app-jfg",
+  "name": "my-first-app",
   "version": "1.0.0",
   "private": true,
   "main": "node_modules/expo/AppEntry.js",
@@ -10,14 +10,11 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "@expo/metro-runtime": "~57.0.14",
     "expo": "~57.0.27",
     "react": "19.2.3",
-    "react-dom": "19.2.3",
-    "react-native": "0.86.3",
-    "react-native-web": "0.21.4"
+    "react-native": "0.86.3"
   },
   "devDependencies": {
-    "babel-preset-expo": "~57.0.14"
+    "babel-preset-expo": "~57.0.0"
   }
 }
